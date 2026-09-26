@@ -1,0 +1,18 @@
+"process","series","shared_fraction","residual_sd","shared_loading"
+"Recruitment","Snow / Male",0.0384615384615385,0.5,0.1
+"Recruitment","Tanner / Male",0.0384615384615385,0.5,0.1
+"Recruitment","Hybrid / Male",0.0384615384615385,0.5,0.1
+"Recruitment","Snow / Female",0.0384615384615385,0.5,0.1
+"Recruitment","Tanner / Female",0.0384615384615385,0.5,0.1
+"Recruitment","Hybrid / Female",0.0384615384615385,0.5,0.1
+"Natural mortality","Snow / Male / Immature",0.0754716981132076,0.35,0.1
+"Natural mortality","Snow / Male / Mature",0.0754716981132076,0.35,0.1
+"Natural mortality","Tanner / Male / Immature",0.0754716981132076,0.35,0.1
+"Natural mortality","Tanner / Male / Mature",0.0754716981132076,0.35,0.1
+"Natural mortality","Hybrid / Male / Total",0.0754716981132076,0.35,0.1
+"Natural mortality","Snow / Female / Immature",0.0754716981132076,0.35,0.1
+"Natural mortality","Snow / Female / Mature",0.0754716981132076,0.35,0.1
+"Natural mortality","Tanner / Female / Immature",0.0754716981132076,0.35,0.1
+"Natural mortality","Tanner / Female / Mature",0.0754716981132076,0.35,0.1
+"Natural mortality","Hybrid / Female / Immature",0.0754716981132076,0.35,0.1
+"Natural mortality","Hybrid / Female / Mature",0.0754716981132076,0.35,0.1

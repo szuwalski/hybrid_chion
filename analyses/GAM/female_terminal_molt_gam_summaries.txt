@@ -1,0 +1,76 @@
+$Hybrid
+
+Family: Beta regression(1.512) 
+Link function: logit 
+
+Formula:
+p_model ~ s(size, k = 8, bs = "ts") + s(temperature, k = 4, bs = "ts") + 
+    s(log_immature_females, log_mature_females, k = 8)
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.55065    0.05313  -10.36   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Approximate significance of smooth terms:
+                                                edf Ref.df  Chi.sq p-value    
+s(size)                                    3.926219      7 822.340  <2e-16 ***
+s(temperature)                             0.003798      3   0.003   0.332    
+s(log_immature_females,log_mature_females) 5.744081      7  59.436  <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-sq.(adj) =  0.701   Deviance explained = 78.2%
+-REML = -920.4  Scale est. = 1         n = 508
+
+$Snow
+
+Family: Beta regression(5.755) 
+Link function: logit 
+
+Formula:
+p_model ~ s(size, k = 8, bs = "ts") + s(temperature, k = 4, bs = "ts") + 
+    s(log_immature_females, log_mature_females, k = 8)
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept)  0.08763    0.06234   1.406     0.16
+
+Approximate significance of smooth terms:
+                                             edf Ref.df Chi.sq  p-value    
+s(size)                                    5.499      7 1893.8  < 2e-16 ***
+s(temperature)                             2.756      3   19.7 7.18e-05 ***
+s(log_immature_females,log_mature_females) 5.172      7   57.7  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-sq.(adj) =  0.805   Deviance explained = 90.2%
+-REML = -633.21  Scale est. = 1         n = 526
+
+$Tanner
+
+Family: Beta regression(10.637) 
+Link function: logit 
+
+Formula:
+p_model ~ s(size, k = 8, bs = "ts") + s(temperature, k = 4, bs = "ts") + 
+    s(log_immature_females, log_mature_females, k = 8)
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.71005    0.03334   -21.3   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Approximate significance of smooth terms:
+                                             edf Ref.df  Chi.sq p-value    
+s(size)                                    6.722      7 7283.04  <2e-16 ***
+s(temperature)                             2.760      3   87.75  <2e-16 ***
+s(log_immature_females,log_mature_females) 6.252      7  145.03  <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-sq.(adj) =   0.94   Deviance explained = 96.9%
+-REML = -2042.8  Scale est. = 1         n = 851
+

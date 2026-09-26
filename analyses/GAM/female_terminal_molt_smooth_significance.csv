@@ -1,0 +1,10 @@
+"species","term","edf","Ref.df","Chi.sq","p-value"
+"Hybrid","s(size)",3.92621906681789,7,822.340135909365,0
+"Hybrid","s(temperature)",0.0037976964781294,3,0.00341816828418224,0.331655649563707
+"Hybrid","s(log_immature_females,log_mature_females)",5.7440806710779,7,59.4363007084047,0
+"Snow","s(size)",5.49937688360734,7,1893.75890927381,0
+"Snow","s(temperature)",2.75566462822248,3,19.6951386882056,7.17629744886317e-05
+"Snow","s(log_immature_females,log_mature_females)",5.17212822324257,7,57.6983945722354,0
+"Tanner","s(size)",6.72189788377638,7,7283.03560404714,0
+"Tanner","s(temperature)",2.76036496288751,3,87.749938453383,0
+"Tanner","s(log_immature_females,log_mature_females)",6.25216825003934,7,145.025010945593,0

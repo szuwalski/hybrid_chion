@@ -1,0 +1,127 @@
+"sex","survey_series","lag","n","correlation"
+"Female","Raw observed recruitment-bin abundance",-10,37,0.0293437142041783
+"Female","Raw observed recruitment-bin abundance",-9,38,0.0727101489312841
+"Female","Raw observed recruitment-bin abundance",-8,39,0.247021459446093
+"Female","Raw observed recruitment-bin abundance",-7,40,0.373947656571875
+"Female","Raw observed recruitment-bin abundance",-6,40,0.147667774394388
+"Female","Raw observed recruitment-bin abundance",-5,41,0.0194316410501889
+"Female","Raw observed recruitment-bin abundance",-4,42,0.0822062524591656
+"Female","Raw observed recruitment-bin abundance",-3,43,0.182105724316859
+"Female","Raw observed recruitment-bin abundance",-2,44,0.125879923452647
+"Female","Raw observed recruitment-bin abundance",-1,45,0.0768586771077518
+"Female","Raw observed recruitment-bin abundance",0,46,0.298944031531622
+"Female","Raw observed recruitment-bin abundance",1,45,0.455769725142482
+"Female","Raw observed recruitment-bin abundance",2,44,0.365990885792886
+"Female","Raw observed recruitment-bin abundance",3,43,0.296757013213344
+"Female","Raw observed recruitment-bin abundance",4,42,0.198430500533593
+"Female","Raw observed recruitment-bin abundance",5,41,0.247240122979834
+"Female","Raw observed recruitment-bin abundance",6,40,0.657798943768179
+"Female","Raw observed recruitment-bin abundance",7,39,0.439882054293927
+"Female","Raw observed recruitment-bin abundance",8,38,0.0210690883755074
+"Female","Raw observed recruitment-bin abundance",9,37,0.0166293914713987
+"Female","Raw observed recruitment-bin abundance",10,36,0.192814538634419
+"Female","Fitted observed-hybrid label",-10,37,0.177604170256152
+"Female","Fitted observed-hybrid label",-9,38,0.106618513069286
+"Female","Fitted observed-hybrid label",-8,39,0.00881903679672313
+"Female","Fitted observed-hybrid label",-7,40,-0.0135365962519284
+"Female","Fitted observed-hybrid label",-6,41,-0.00830980414698893
+"Female","Fitted observed-hybrid label",-5,42,-0.0014147243332525
+"Female","Fitted observed-hybrid label",-4,43,0.0246442225849521
+"Female","Fitted observed-hybrid label",-3,44,0.0633713375913499
+"Female","Fitted observed-hybrid label",-2,45,0.0174313223080579
+"Female","Fitted observed-hybrid label",-1,46,-0.0299347213196232
+"Female","Fitted observed-hybrid label",0,47,-0.00115419305206899
+"Female","Fitted observed-hybrid label",1,46,0.168233951471658
+"Female","Fitted observed-hybrid label",2,45,0.459073891966522
+"Female","Fitted observed-hybrid label",3,44,0.751983982761397
+"Female","Fitted observed-hybrid label",4,43,0.782977319089274
+"Female","Fitted observed-hybrid label",5,42,0.530002976742439
+"Female","Fitted observed-hybrid label",6,41,0.241310506251228
+"Female","Fitted observed-hybrid label",7,40,0.127934883497497
+"Female","Fitted observed-hybrid label",8,39,0.141399653444576
+"Female","Fitted observed-hybrid label",9,38,0.161604303419389
+"Female","Fitted observed-hybrid label",10,37,0.133513108203053
+"Female","Classification-corrected survey abundance",-10,37,0.251703995244141
+"Female","Classification-corrected survey abundance",-9,38,0.112213485859098
+"Female","Classification-corrected survey abundance",-8,39,0.0433299585383146
+"Female","Classification-corrected survey abundance",-7,40,0.068838466311858
+"Female","Classification-corrected survey abundance",-6,41,0.073392388787576
+"Female","Classification-corrected survey abundance",-5,42,0.0862033915342935
+"Female","Classification-corrected survey abundance",-4,43,0.138689007801029
+"Female","Classification-corrected survey abundance",-3,44,0.140290788001903
+"Female","Classification-corrected survey abundance",-2,45,0.0515446905913803
+"Female","Classification-corrected survey abundance",-1,46,0.0289921959273314
+"Female","Classification-corrected survey abundance",0,47,0.181344051393771
+"Female","Classification-corrected survey abundance",1,46,0.484022786567011
+"Female","Classification-corrected survey abundance",2,45,0.741623271986124
+"Female","Classification-corrected survey abundance",3,44,0.816503369603745
+"Female","Classification-corrected survey abundance",4,43,0.641933750779147
+"Female","Classification-corrected survey abundance",5,42,0.364391035302306
+"Female","Classification-corrected survey abundance",6,41,0.182168380176963
+"Female","Classification-corrected survey abundance",7,40,0.13955511403743
+"Female","Classification-corrected survey abundance",8,39,0.148269197539593
+"Female","Classification-corrected survey abundance",9,38,0.181351606823859
+"Female","Classification-corrected survey abundance",10,37,0.184519828099472
+"Male","Raw observed recruitment-bin abundance",-10,37,0.306173917057564
+"Male","Raw observed recruitment-bin abundance",-9,38,0.397094847405332
+"Male","Raw observed recruitment-bin abundance",-8,39,0.442303800458712
+"Male","Raw observed recruitment-bin abundance",-7,40,0.277217019272454
+"Male","Raw observed recruitment-bin abundance",-6,40,0.274248239042444
+"Male","Raw observed recruitment-bin abundance",-5,41,0.0891970139593322
+"Male","Raw observed recruitment-bin abundance",-4,42,0.00872515034495444
+"Male","Raw observed recruitment-bin abundance",-3,43,0.278177620586107
+"Male","Raw observed recruitment-bin abundance",-2,44,0.0448262659095775
+"Male","Raw observed recruitment-bin abundance",-1,45,0.0647395417084858
+"Male","Raw observed recruitment-bin abundance",0,46,0.180548977006864
+"Male","Raw observed recruitment-bin abundance",1,45,0.414371101368496
+"Male","Raw observed recruitment-bin abundance",2,44,0.550519880315632
+"Male","Raw observed recruitment-bin abundance",3,43,0.570547077851383
+"Male","Raw observed recruitment-bin abundance",4,42,0.445846237762765
+"Male","Raw observed recruitment-bin abundance",5,41,0.263840845430394
+"Male","Raw observed recruitment-bin abundance",6,40,0.354534903353459
+"Male","Raw observed recruitment-bin abundance",7,39,0.134856838718467
+"Male","Raw observed recruitment-bin abundance",8,38,0.0704106968270487
+"Male","Raw observed recruitment-bin abundance",9,37,0.190843820984459
+"Male","Raw observed recruitment-bin abundance",10,36,0.278742036055386
+"Male","Fitted observed-hybrid label",-10,37,0.296051540983164
+"Male","Fitted observed-hybrid label",-9,38,0.405460313676369
+"Male","Fitted observed-hybrid label",-8,39,0.425859599275122
+"Male","Fitted observed-hybrid label",-7,40,0.424875960742846
+"Male","Fitted observed-hybrid label",-6,41,0.288503650825944
+"Male","Fitted observed-hybrid label",-5,42,0.146323695828689
+"Male","Fitted observed-hybrid label",-4,43,0.0727966877971883
+"Male","Fitted observed-hybrid label",-3,44,0.0874431280030386
+"Male","Fitted observed-hybrid label",-2,45,0.0148152006802354
+"Male","Fitted observed-hybrid label",-1,46,-0.0658402979148993
+"Male","Fitted observed-hybrid label",0,47,-0.0475170951598366
+"Male","Fitted observed-hybrid label",1,46,0.0199141756309967
+"Male","Fitted observed-hybrid label",2,45,0.137540553847759
+"Male","Fitted observed-hybrid label",3,44,0.37942101284161
+"Male","Fitted observed-hybrid label",4,43,0.695389794989693
+"Male","Fitted observed-hybrid label",5,42,0.820246677304782
+"Male","Fitted observed-hybrid label",6,41,0.682273880398287
+"Male","Fitted observed-hybrid label",7,40,0.4966057182535
+"Male","Fitted observed-hybrid label",8,39,0.298973593004684
+"Male","Fitted observed-hybrid label",9,38,0.287121643910479
+"Male","Fitted observed-hybrid label",10,37,0.231569097021429
+"Male","Classification-corrected survey abundance",-10,37,0.412826900189553
+"Male","Classification-corrected survey abundance",-9,38,0.462058150493062
+"Male","Classification-corrected survey abundance",-8,39,0.412615128718365
+"Male","Classification-corrected survey abundance",-7,40,0.376649264172208
+"Male","Classification-corrected survey abundance",-6,41,0.267160548887199
+"Male","Classification-corrected survey abundance",-5,42,0.15151911291229
+"Male","Classification-corrected survey abundance",-4,43,0.0890763687725142
+"Male","Classification-corrected survey abundance",-3,44,0.118147864732029
+"Male","Classification-corrected survey abundance",-2,45,0.0543127265462414
+"Male","Classification-corrected survey abundance",-1,46,0.00892148307462721
+"Male","Classification-corrected survey abundance",0,47,0.093118294518119
+"Male","Classification-corrected survey abundance",1,46,0.27677255650393
+"Male","Classification-corrected survey abundance",2,45,0.401599795847906
+"Male","Classification-corrected survey abundance",3,44,0.598286997833751
+"Male","Classification-corrected survey abundance",4,43,0.783381584757136
+"Male","Classification-corrected survey abundance",5,42,0.764991750371686
+"Male","Classification-corrected survey abundance",6,41,0.606878917479516
+"Male","Classification-corrected survey abundance",7,40,0.453801462766658
+"Male","Classification-corrected survey abundance",8,39,0.301953367752145
+"Male","Classification-corrected survey abundance",9,38,0.302079337025566
+"Male","Classification-corrected survey abundance",10,37,0.261307653389618

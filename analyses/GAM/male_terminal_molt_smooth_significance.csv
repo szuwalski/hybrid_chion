@@ -1,0 +1,7 @@
+"species","term","edf","Ref.df","Chi.sq","p-value"
+"Snow","s(size)",6.49545519144996,7,10995.3125756778,0
+"Snow","s(temperature)",2.60089996709232,3,23.5554310971446,7.79800418071463e-06
+"Snow","s(log_small_males,log_large_males)",6.25757126492703,7,75.37249643434,0
+"Tanner","s(size)",6.89304789070849,7,32441.9781354688,0
+"Tanner","s(temperature)",2.33918130357508,3,31.8478677346525,0
+"Tanner","s(log_small_males,log_large_males)",6.4732176672204,7,130.445961304215,0

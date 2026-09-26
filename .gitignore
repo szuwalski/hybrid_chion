@@ -1,0 +1,23 @@
+# R/RStudio session state
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Local scratch work and regenerated exports
+tmp/
+output/
+.artifact_size_comp/
+*.inspect.ndjson
+*.log
+
+# Historical development work is retained locally but not shared in Git.
+models/archive/
+analyses/archive/
+
+# Projection runs are generated from the canonical fit and can be large.
+models/model/projections/
+
+# Common operating-system files
+.DS_Store
+Thumbs.db

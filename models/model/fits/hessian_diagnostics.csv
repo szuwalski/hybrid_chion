@@ -1,0 +1,13 @@
+"metric","value"
+"parameters",1521
+"objective",56018.7427240221
+"max_gradient",0.00079259351044314
+"finite_hessian",1
+"chol_positive_definite",1
+"direct_inverse_succeeded",1
+"eigenvalues_below_1e-8",0
+"eigenvalues_below_1e-6",1
+"minimum_eigenvalue",6.70953790160742e-08
+"maximum_eigenvalue",417185.304833095
+"scaled_minimum_eigenvalue",1.60828721047395e-13
+"condition_number",6217794890660.78

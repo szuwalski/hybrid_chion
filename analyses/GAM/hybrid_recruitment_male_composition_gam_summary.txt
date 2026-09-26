@@ -1,0 +1,24 @@
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+log_recruitment ~ sex + s(log_snow_female, k = 3) + s(tanner_male_fraction, 
+    k = 4, bs = "ts")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  17.7321     0.1198 147.994  < 2e-16 ***
+sexMale       1.1169     0.1694   6.591 5.11e-09 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Approximate significance of smooth terms:
+                           edf Ref.df     F  p-value    
+s(log_snow_female)      0.9124      2 5.206 0.001124 ** 
+s(tanner_male_fraction) 1.0624      3 4.924 0.000168 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-sq.(adj) =  0.478   Deviance explained = 49.8%
+-REML = 95.386  Scale est. = 0.57424   n = 80

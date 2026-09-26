@@ -1,0 +1,232 @@
+"size","sex","process","curve","value"
+27.5,"Male","Terminal molt","Snow parent",0
+32.5,"Male","Terminal molt","Snow parent",0.0012
+37.5,"Male","Terminal molt","Snow parent",0.0148
+42.5,"Male","Terminal molt","Snow parent",0.0373
+47.5,"Male","Terminal molt","Snow parent",0.0713
+52.5,"Male","Terminal molt","Snow parent",0.1181
+57.5,"Male","Terminal molt","Snow parent",0.1738
+62.5,"Male","Terminal molt","Snow parent",0.2357
+67.5,"Male","Terminal molt","Snow parent",0.3022
+72.5,"Male","Terminal molt","Snow parent",0.3659
+77.5,"Male","Terminal molt","Snow parent",0.4146
+82.5,"Male","Terminal molt","Snow parent",0.4508
+87.5,"Male","Terminal molt","Snow parent",0.4911
+92.5,"Male","Terminal molt","Snow parent",0.5512
+97.5,"Male","Terminal molt","Snow parent",0.6445
+102.5,"Male","Terminal molt","Snow parent",0.7581
+107.5,"Male","Terminal molt","Snow parent",0.854
+112.5,"Male","Terminal molt","Snow parent",0.9177
+117.5,"Male","Terminal molt","Snow parent",0.9596
+122.5,"Male","Terminal molt","Snow parent",0.9851
+127.5,"Male","Terminal molt","Snow parent",0.9996
+132.5,"Male","Terminal molt","Snow parent",1
+137.5,"Male","Terminal molt","Snow parent",1
+142.5,"Male","Terminal molt","Snow parent",1
+147.5,"Male","Terminal molt","Snow parent",1
+152.5,"Male","Terminal molt","Snow parent",1
+157.5,"Male","Terminal molt","Snow parent",1
+162.5,"Male","Terminal molt","Snow parent",1
+167.5,"Male","Terminal molt","Snow parent",1
+27.5,"Male","Terminal molt","Tanner parent",0
+32.5,"Male","Terminal molt","Tanner parent",0
+37.5,"Male","Terminal molt","Tanner parent",0
+42.5,"Male","Terminal molt","Tanner parent",0
+47.5,"Male","Terminal molt","Tanner parent",0
+52.5,"Male","Terminal molt","Tanner parent",0.009
+57.5,"Male","Terminal molt","Tanner parent",0.023
+62.5,"Male","Terminal molt","Tanner parent",0.047
+67.5,"Male","Terminal molt","Tanner parent",0.077
+72.5,"Male","Terminal molt","Tanner parent",0.114
+77.5,"Male","Terminal molt","Tanner parent",0.169
+82.5,"Male","Terminal molt","Tanner parent",0.214
+87.5,"Male","Terminal molt","Tanner parent",0.287
+92.5,"Male","Terminal molt","Tanner parent",0.353
+97.5,"Male","Terminal molt","Tanner parent",0.403
+102.5,"Male","Terminal molt","Tanner parent",0.477
+107.5,"Male","Terminal molt","Tanner parent",0.543
+112.5,"Male","Terminal molt","Tanner parent",0.625
+117.5,"Male","Terminal molt","Tanner parent",0.706
+122.5,"Male","Terminal molt","Tanner parent",0.796
+127.5,"Male","Terminal molt","Tanner parent",0.854
+132.5,"Male","Terminal molt","Tanner parent",0.912
+137.5,"Male","Terminal molt","Tanner parent",0.941
+142.5,"Male","Terminal molt","Tanner parent",0.975
+147.5,"Male","Terminal molt","Tanner parent",0.992
+152.5,"Male","Terminal molt","Tanner parent",1
+157.5,"Male","Terminal molt","Tanner parent",1
+162.5,"Male","Terminal molt","Tanner parent",1
+167.5,"Male","Terminal molt","Tanner parent",1
+27.5,"Male","Terminal molt","Hybrid",0
+32.5,"Male","Terminal molt","Hybrid",0.00057111008262053
+37.5,"Male","Terminal molt","Hybrid",0.00704369101898653
+42.5,"Male","Terminal molt","Hybrid",0.0177520050681215
+47.5,"Male","Terminal molt","Hybrid",0.0339334574090365
+52.5,"Male","Terminal molt","Hybrid",0.0609234250115832
+57.5,"Male","Terminal molt","Hybrid",0.0947695003826466
+62.5,"Male","Terminal molt","Hybrid",0.136807060492078
+67.5,"Male","Terminal molt","Hybrid",0.184178325505119
+72.5,"Male","Terminal molt","Hybrid",0.233885524843426
+77.5,"Male","Terminal molt","Hybrid",0.285887196909668
+82.5,"Male","Terminal molt","Hybrid",0.326699056303785
+87.5,"Male","Terminal molt","Hybrid",0.384136306552375
+92.5,"Male","Terminal molt","Hybrid",0.447328348646158
+97.5,"Male","Terminal molt","Hybrid",0.517935904127382
+102.5,"Male","Terminal molt","Hybrid",0.610782536853859
+107.5,"Male","Terminal molt","Hybrid",0.691012696412487
+112.5,"Male","Terminal molt","Hybrid",0.764303267652524
+117.5,"Male","Terminal molt","Hybrid",0.826694597460472
+122.5,"Male","Terminal molt","Hybrid",0.885997430519619
+127.5,"Male","Terminal molt","Hybrid",0.923294690024624
+132.5,"Male","Terminal molt","Hybrid",0.953881406058839
+137.5,"Male","Terminal molt","Hybrid",0.969079579062176
+142.5,"Male","Terminal molt","Hybrid",0.986898126721261
+147.5,"Male","Terminal molt","Hybrid",0.995807400550804
+152.5,"Male","Terminal molt","Hybrid",1
+157.5,"Male","Terminal molt","Hybrid",1
+162.5,"Male","Terminal molt","Hybrid",1
+167.5,"Male","Terminal molt","Hybrid",1
+27.5,"Male","Survey selectivity","Snow parent",0.0236320690642631
+32.5,"Male","Survey selectivity","Snow parent",0.0306528483895714
+37.5,"Male","Survey selectivity","Snow parent",0.0396746540059438
+42.5,"Male","Survey selectivity","Snow parent",0.0512114921757447
+47.5,"Male","Survey selectivity","Snow parent",0.0658729652964267
+52.5,"Male","Survey selectivity","Snow parent",0.084358704509725
+57.5,"Male","Survey selectivity","Snow parent",0.107435409200681
+62.5,"Male","Survey selectivity","Snow parent",0.135887993505379
+67.5,"Male","Survey selectivity","Snow parent",0.170436933811174
+72.5,"Male","Survey selectivity","Snow parent",0.211618636511939
+77.5,"Male","Survey selectivity","Snow parent",0.259636532817312
+82.5,"Male","Survey selectivity","Snow parent",0.314207630144255
+87.5,"Male","Survey selectivity","Snow parent",0.374447588979965
+92.5,"Male","Survey selectivity","Snow parent",0.43884629089962
+97.5,"Male","Survey selectivity","Snow parent",0.505372790418691
+102.5,"Male","Survey selectivity","Snow parent",0.571709580401907
+107.5,"Male","Survey selectivity","Snow parent",0.635565253157176
+112.5,"Male","Survey selectivity","Snow parent",0.694979822370334
+117.5,"Male","Survey selectivity","Snow parent",0.748540339101886
+122.5,"Male","Survey selectivity","Snow parent",0.795463764241943
+127.5,"Male","Survey selectivity","Snow parent",0.835554693340402
+132.5,"Male","Survey selectivity","Snow parent",0.869080759466658
+137.5,"Male","Survey selectivity","Snow parent",0.896617443414163
+142.5,"Male","Survey selectivity","Snow parent",0.918902707133172
+147.5,"Male","Survey selectivity","Snow parent",0.936723154050772
+152.5,"Male","Survey selectivity","Snow parent",0.950837214515893
+157.5,"Male","Survey selectivity","Snow parent",0.961931041797804
+162.5,"Male","Survey selectivity","Snow parent",0.970598899351242
+167.5,"Male","Survey selectivity","Snow parent",0.977339678504181
+27.5,"Male","Survey selectivity","Tanner parent",0.0997301274976675
+32.5,"Male","Survey selectivity","Tanner parent",0.115981199661471
+37.5,"Male","Survey selectivity","Tanner parent",0.134484808331963
+42.5,"Male","Survey selectivity","Tanner parent",0.155421468765509
+47.5,"Male","Survey selectivity","Tanner parent",0.178943677622447
+52.5,"Male","Survey selectivity","Tanner parent",0.205161078073481
+57.5,"Male","Survey selectivity","Tanner parent",0.234124334325022
+62.5,"Male","Survey selectivity","Tanner parent",0.265809043810403
+67.5,"Male","Survey selectivity","Tanner parent",0.300101527610178
+72.5,"Male","Survey selectivity","Tanner parent",0.336788702105108
+77.5,"Male","Survey selectivity","Tanner parent",0.375554287421896
+82.5,"Male","Survey selectivity","Tanner parent",0.415983212871442
+87.5,"Male","Survey selectivity","Tanner parent",0.457575183611691
+92.5,"Male","Survey selectivity","Tanner parent",0.499767064682931
+97.5,"Male","Survey selectivity","Tanner parent",0.541962263303163
+102.5,"Male","Survey selectivity","Tanner parent",0.583563999691328
+107.5,"Male","Survey selectivity","Tanner parent",0.624008599932285
+112.5,"Male","Survey selectivity","Tanner parent",0.662794940032645
+117.5,"Male","Survey selectivity","Tanner parent",0.699506919627096
+122.5,"Male","Survey selectivity","Tanner parent",0.733827130309385
+127.5,"Male","Survey selectivity","Tanner parent",0.765541358817012
+132.5,"Male","Survey selectivity","Tanner parent",0.794534876825775
+137.5,"Male","Survey selectivity","Tanner parent",0.820782370393661
+142.5,"Male","Survey selectivity","Tanner parent",0.844333762897944
+147.5,"Male","Survey selectivity","Tanner parent",0.865298137030863
+152.5,"Male","Survey selectivity","Tanner parent",0.883827601509408
+157.5,"Male","Survey selectivity","Tanner parent",0.90010243667856
+162.5,"Male","Survey selectivity","Tanner parent",0.914318325721019
+167.5,"Male","Survey selectivity","Tanner parent",0.926676023682295
+27.5,"Male","Survey selectivity","Hybrid",0.0263073153096822
+32.5,"Male","Survey selectivity","Hybrid",0.0336525878844721
+37.5,"Male","Survey selectivity","Hybrid",0.043007728654757
+42.5,"Male","Survey selectivity","Hybrid",0.0548750199233147
+47.5,"Male","Survey selectivity","Hybrid",0.0698479944212732
+52.5,"Male","Survey selectivity","Hybrid",0.0886055421159298
+57.5,"Male","Survey selectivity","Hybrid",0.111889189996832
+62.5,"Male","Survey selectivity","Hybrid",0.140455400469298
+67.5,"Male","Survey selectivity","Hybrid",0.174995324982588
+72.5,"Male","Survey selectivity","Hybrid",0.216019021422022
+77.5,"Male","Survey selectivity","Hybrid",0.26371165042435
+82.5,"Male","Survey selectivity","Hybrid",0.317785576167734
+87.5,"Male","Survey selectivity","Hybrid",0.377369960325666
+92.5,"Male","Survey selectivity","Hybrid",0.440987975913495
+97.5,"Male","Survey selectivity","Hybrid",0.5066591024741
+102.5,"Male","Survey selectivity","Hybrid",0.572126325471998
+107.5,"Male","Survey selectivity","Hybrid",0.635158976127434
+112.5,"Male","Survey selectivity","Hybrid",0.693848354795396
+117.5,"Male","Survey selectivity","Hybrid",0.746816556996922
+122.5,"Male","Survey selectivity","Hybrid",0.793296912985776
+127.5,"Male","Survey selectivity","Hybrid",0.833093357083356
+132.5,"Male","Survey selectivity","Hybrid",0.866460080348793
+137.5,"Male","Survey selectivity","Hybrid",0.893951442486601
+142.5,"Male","Survey selectivity","Hybrid",0.916281217279199
+147.5,"Male","Survey selectivity","Hybrid",0.934212189743073
+152.5,"Male","Survey selectivity","Hybrid",0.948481474838783
+157.5,"Male","Survey selectivity","Hybrid",0.959757441746634
+162.5,"Male","Survey selectivity","Hybrid",0.968620341732376
+167.5,"Male","Survey selectivity","Hybrid",0.975558585068531
+27.5,"Female","Survey selectivity","Snow parent",0.00367899470079337
+32.5,"Female","Survey selectivity","Snow parent",0.0172451142318718
+37.5,"Female","Survey selectivity","Snow parent",0.0769710113234412
+42.5,"Female","Survey selectivity","Snow parent",0.28381159100222
+47.5,"Female","Survey selectivity","Snow parent",0.653161786945145
+52.5,"Female","Survey selectivity","Snow parent",0.899489531656626
+57.5,"Female","Survey selectivity","Snow parent",0.977026325639104
+62.5,"Female","Survey selectivity","Snow parent",0.995076322495583
+67.5,"Female","Survey selectivity","Snow parent",0.998959863688164
+72.5,"Female","Survey selectivity","Snow parent",0.999780943529933
+77.5,"Female","Survey selectivity","Snow parent",0.999953895828822
+82.5,"Female","Survey selectivity","Snow parent",0.999990297915774
+87.5,"Female","Survey selectivity","Snow parent",0.999997958368399
+92.5,"Female","Survey selectivity","Snow parent",0.999999570377428
+97.5,"Female","Survey selectivity","Snow parent",0.999999909594209
+102.5,"Female","Survey selectivity","Snow parent",0.999999980975849
+107.5,"Female","Survey selectivity","Snow parent",0.999999995996735
+112.5,"Female","Survey selectivity","Snow parent",0.99999999915759
+117.5,"Female","Survey selectivity","Snow parent",0.999999999822731
+27.5,"Female","Survey selectivity","Tanner parent",0.0995423000674416
+32.5,"Female","Survey selectivity","Tanner parent",0.116037283303123
+37.5,"Female","Survey selectivity","Tanner parent",0.134856263249728
+42.5,"Female","Survey selectivity","Tanner parent",0.156188041312416
+47.5,"Female","Survey selectivity","Tanner parent",0.180191319055387
+52.5,"Female","Survey selectivity","Tanner parent",0.20697862374533
+57.5,"Female","Survey selectivity","Tanner parent",0.236598862617382
+62.5,"Female","Survey selectivity","Tanner parent",0.269020011413411
+67.5,"Female","Survey selectivity","Tanner parent",0.304114016511261
+72.5,"Female","Survey selectivity","Tanner parent",0.34164638084487
+77.5,"Female","Survey selectivity","Tanner parent",0.381272925454358
+82.5,"Female","Survey selectivity","Tanner parent",0.422545715987737
+87.5,"Female","Survey selectivity","Tanner parent",0.464929069727719
+92.5,"Female","Survey selectivity","Tanner parent",0.507825038123757
+97.5,"Female","Survey selectivity","Tanner parent",0.550606098364726
+102.5,"Female","Survey selectivity","Tanner parent",0.592651402789581
+107.5,"Female","Survey selectivity","Tanner parent",0.633382217912854
+112.5,"Female","Survey selectivity","Tanner parent",0.672292350004279
+117.5,"Female","Survey selectivity","Tanner parent",0.708970351452172
+27.5,"Female","Survey selectivity","Hybrid",0.0892872412628732
+32.5,"Female","Survey selectivity","Hybrid",0.105468906807219
+37.5,"Female","Survey selectivity","Hybrid",0.128663939084074
+42.5,"Female","Survey selectivity","Hybrid",0.169840679325585
+47.5,"Female","Survey selectivity","Hybrid",0.230787738013429
+52.5,"Female","Survey selectivity","Hybrid",0.281060568408863
+57.5,"Female","Survey selectivity","Hybrid",0.315806721607469
+62.5,"Female","Survey selectivity","Hybrid",0.346690504174931
+67.5,"Female","Survey selectivity","Hybrid",0.378445743293012
+72.5,"Female","Survey selectivity","Hybrid",0.412050886675757
+77.5,"Female","Survey selectivity","Hybrid",0.44745684961795
+82.5,"Female","Survey selectivity","Hybrid",0.484318342347767
+87.5,"Female","Survey selectivity","Hybrid",0.522168520177696
+92.5,"Female","Survey selectivity","Hybrid",0.560475828236491
+97.5,"Female","Survey selectivity","Hybrid",0.598680384380017
+102.5,"Female","Survey selectivity","Hybrid",0.636227864161117
+107.5,"Female","Survey selectivity","Hybrid",0.67260146722489
+112.5,"Female","Survey selectivity","Hybrid",0.707349155107343
+117.5,"Female","Survey selectivity","Hybrid",0.740103496157521

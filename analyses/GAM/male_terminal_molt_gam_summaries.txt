@@ -1,0 +1,52 @@
+$Snow
+
+Family: Beta regression(29.487) 
+Link function: logit 
+
+Formula:
+p_model ~ s(size, k = 8, bs = "ts") + s(temperature, k = 4, bs = "ts") + 
+    s(log_small_males, log_large_males, k = 8)
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.15943    0.02097  -7.604 2.86e-14 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Approximate significance of smooth terms:
+                                     edf Ref.df   Chi.sq p-value    
+s(size)                            6.495      7 10995.31 < 2e-16 ***
+s(temperature)                     2.601      3    23.55 7.8e-06 ***
+s(log_small_males,log_large_males) 6.258      7    75.37 < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-sq.(adj) =  0.964   Deviance explained = 98.3%
+-REML = -1867.6  Scale est. = 1         n = 946
+
+$Tanner
+
+Family: Beta regression(50.325) 
+Link function: logit 
+
+Formula:
+p_model ~ s(size, k = 8, bs = "ts") + s(temperature, k = 4, bs = "ts") + 
+    s(log_small_males, log_large_males, k = 8)
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.25214    0.01736   14.52   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Approximate significance of smooth terms:
+                                     edf Ref.df   Chi.sq p-value    
+s(size)                            6.893      7 32441.98  <2e-16 ***
+s(temperature)                     2.339      3    31.85  <2e-16 ***
+s(log_small_males,log_large_males) 6.473      7   130.45  <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-sq.(adj) =  0.988   Deviance explained = 99.4%
+-REML = -4462.8  Scale est. = 1         n = 1600
+

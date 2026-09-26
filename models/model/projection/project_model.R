@@ -7,7 +7,7 @@ seed<-as.integer(argval("--seed","20260901"))
 if(!is.finite(horizon)||horizon<1)stop("--years must be a positive integer")
 if(!is.finite(ndraw)||ndraw<20)stop("--draws must be at least 20")
 fit_path<-argval("--fit","models/model/fits/model_fit.rds")
-out<-argval("--out",paste0("models/model/projections/projection_",horizon,"yr"))
+out<-argval("--out",paste0("models/model/projection/output/projection_",horizon,"yr"))
 dir.create(out,recursive=TRUE,showWarnings=FALSE)
 x<-readRDS(fit_path);d<-x$data
 source("models/model/R/joint_classification_model.R")

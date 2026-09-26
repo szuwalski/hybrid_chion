@@ -16,7 +16,7 @@ models/archive/
 analyses/archive/
 
 # Projection runs are generated from the canonical fit and can be large.
-models/model/projections/
+models/model/projection/output/
 
 # Common operating-system files
 .DS_Store

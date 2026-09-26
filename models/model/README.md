@@ -11,7 +11,7 @@ This directory is the single current model implementation. It corresponds to the
 - `data/two_fishery_base_input.rds`: base two-fishery input.
 - `run_model.R`: stable fitting entry point; its defaults reproduce the accepted configuration.
 - `check_hessian.R` and `plot_model.R`: stable diagnostic entry points.
-- `projection/`: projection scripts and local helper functions.
+- `projection/`: projection scripts, local helper functions, and ignored generated output under `projection/output/`.
 
 ## Accepted assumptions
 

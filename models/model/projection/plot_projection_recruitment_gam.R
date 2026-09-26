@@ -66,6 +66,6 @@ plot_projection_recruitment_gam<-function(out){
 }
 if(sys.nframe()==0L){
  args<-commandArgs(TRUE)
- out<-if(length(args))args[1] else "models/model/projections/projection_15yr"
+ out<-if(length(args))args[1] else "models/model/projection/output/projection_15yr"
  plot_projection_recruitment_gam(out)
 }
